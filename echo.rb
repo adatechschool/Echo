@@ -1,7 +1,7 @@
 while true
   
   puts "Bnjour que veux tu faire !"
-  sleep(1)
+  sleep(2)
   entree_utilisateur = gets.chomp
   if entree_utilisateur =="Rien" 
     break
